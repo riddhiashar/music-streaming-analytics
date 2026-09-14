@@ -1,4 +1,4 @@
-readme_content = '''# Music Streaming User Engagement & Revenue Analytics
+
 ### SQL + Excel | Real Dataset (Last.fm 1K Users)
 
 ## Overview
@@ -69,9 +69,3 @@ trend overstates future revenue (real growth clearly decelerates from 2008 onwar
 ## Tools
 SQLite (SQL), Python/pandas (chunked ETL), openpyxl (Excel automation: pivot tables, conditional
 formatting, formulas, charts)
-'''
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md saved to your project folder.")
