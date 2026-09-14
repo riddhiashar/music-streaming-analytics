@@ -1,0 +1,5 @@
+plan_type,total_users,churned_users,churn_rate_pct
+Free,347,89,25.6
+Premium,347,30,8.6
+Family,198,13,6.6
+Student,100,2,2.0

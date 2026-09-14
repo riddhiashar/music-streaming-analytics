@@ -1,0 +1,14 @@
+
+userid-timestamp-artid-artname-traid-traname.tsv
+userid-profile.tsv
+
+*.db
+lastfm_streaming.db
+
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+
+.ipynb_checkpoints/
